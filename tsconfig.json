@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES6",
+    "strict": true,
+    "skipLibCheck": true,
+    "moduleResolution": "nodenext",
+    "outDir": "dist"
+  },
+  "ts-node": {
+    "esm": true
+  }
+}
